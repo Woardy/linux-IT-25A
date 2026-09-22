@@ -1,4 +1,4 @@
-# linux-IT-25A Rasmus Laisaar
+# linux-IT-25A Rasmus L
 
   
 ## disk-report.service
